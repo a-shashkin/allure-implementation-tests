@@ -1,1 +1,1 @@
-# allure-implementation-tests
+Repository contains autotests with implementation of Allure Reports.
